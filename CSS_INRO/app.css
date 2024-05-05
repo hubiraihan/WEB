@@ -1,0 +1,17 @@
+h1 {
+    text-align: center;
+    font-weight: 100;
+    text-decoration: #1390ac underline wavy;
+    letter-spacing: 10px;
+    font-size: 80px;
+    /* font-family: Avant Garde,Arial, sans-serif; */
+    font-family: fantasy;
+}
+
+a {
+    text-decoration: none;
+}
+
+p{
+    line-height: 2;
+}
